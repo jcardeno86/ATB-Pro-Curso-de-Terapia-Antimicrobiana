@@ -17,3 +17,23 @@ Incluye contenido estructurado, tablas, figuras, audios, videos y un **quiz cone
 - Despliegue automático continuo con **Netlify + GitHub**.
 
 ---
+## 📁 Estructura del proyecto
+
+ATB-Pro/
+├── index.html
+├── quiz.html
+├── css/
+│ └── styles.css
+├── js/
+│ └── app.js
+├── imagenes/
+│ ├── figura1.jpg
+│ ├── figura6.jpg
+│ ├── figura7.jpg
+│ └── ...
+├── audio/
+│ └── explicacion1.mp3
+├── videos/
+│ └── introduccion.mp4
+├── .gitignore
+└── README.md
